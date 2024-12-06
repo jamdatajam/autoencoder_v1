@@ -2,7 +2,7 @@
 """
 Autoencoder test for the purposes of devving out GAN model in the next build
 """
-# Author: James Brickner
+# Author: JB
 # GitHub username: jamdatajam
 # Date: 05/04/2024
 # Description: Autoencoder test code for 4tend.com (ANN for VAE). Encodes then decodes 
