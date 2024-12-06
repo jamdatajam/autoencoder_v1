@@ -1,7 +1,7 @@
 # autoencoder_v1
 Autoencoder test I did for 4tend.com
 
-Author: James Brickner
+Author: JB
 GitHub username: jamdatajam
 Date: 05/04/2024
 Description: Autoencoder test code for 4tend.com (ANN). Encodes then decodes 
